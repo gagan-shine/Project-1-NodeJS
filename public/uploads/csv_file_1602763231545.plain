@@ -1,0 +1,119 @@
+git fetch origin
+git reset --hard origin/branch_name
+
+git remote set-url origin https://gagannodejs@bitbucket.org/codebrew_web/knowmoto_backend.git
+NODE_ENV=live pm2 start app.js --name gagan-saas-client
+NODE_ENV=GAGAN pm2 start server.js --name gagan-saas-agent
+
+
+ssh -i dev-gagandeep.pem dev-gagandeep@104.248.132.214
+ssh dev-gagandeep@52.43.236.85
+
+
+Gagan :  
+  a.) PATH : /home/ubuntu/royo_devs_codes/gagan/
+  b.) Port : 6003
+  c.) URL  : gagan-api.royodev.tk
+  Gagan :  
+  a.) PATH : /home/ubuntu/royo_devs_codes/gagan/
+  b.) Port : 6007
+  c.) URL  : gagan-agent.royodev.tk
+
+
+Desktime login details:-
+gagandeep@codebrewinnovations.com
+t7zH$v9C
+
+
+
+sudo ssh -i 'Digitalocean-166.pem' root@142.93.246.166 ----- saas_product_backend
+ssh -i NannyLineAwsKey.pem ubuntu@44.225.206.68
+ssh -i RoyoAppsAWS.pem ubuntu@52.43.236.85
+
+
+sudo ssh -i RoyoAppsAWS.pem ubuntu@44.230.101.71 - Production
+
+
+
+SWAGGER:-
+https://kuai-api.netsolutionindia.com/api-docs/ - sudo ssh -i 'Digitalocean-166.pem' root@142.93.246.166
+https://backend.almantystore.com/api-docs/
+https://api.royoapps.com/api-docs/ - user
+https://api.conceptsgcc.com/api-docs/
+https://agent-api.royoapps.com/documentation
+https://onboarding-agent-test.royoapps.com/documentation
+https://onboarding-agent.royoapps.com/documentation
+
+https://api-saas.royoapps.com/api-docs - Live documentation
+
+
+https://yammfood-admin.royoapps.com/#!/login - admin
+https://yammfood.royoapps.com/ - website
+
+
+
+
+
+
+MYSQL DATABASE:-
+https://newdev-db.code-brew.com/index.php
+http://52.43.236.85/royodevsdbaccess/ - yammfood_0599
+http://52.43.236.85/phpmyadmin
+https://dbmgmt.royoapps.com/ - LIVE
+
+
+Admin login:-
+https://homerr-admin.royoapps.com/#!/login - Dev Server admin panel
+bharat0102@yopmail.com
+123456
+https://homerr.royoapps.com/8/home - Dev Server website
+arorahomer@yopmail.com
+123456
+
+
+https://foodroyo-admin.royoapps.com - Live Server admin panel
+kashish@codebrewinnovations.com
+kashish@123
+https://royohomes.royoapps.com/8/home - Live Server Website
+daman@gmail.com
+123456
+
+
+
+
+
+
+========================================================================
+CSF
+Doc:- 
+http://192.168.102.76:3002/documentation
+https://dev-api.rooh.live/documentation
+https://liveapp-api.rooh.live/documentation
+https://test-api.rooh.live/documentation/
+========================================================================
+Gameplan
+
+========================================================================
+Yeto
+
+
+DEV - sudo ssh -i ../pem_files/dubaiieKey.pem ubuntu@18.237.192.50
+LIVE - 
+LOCAL - NODE_ENV=local nodemon
+========================================================================
+KnowMoto
+Doc:-
+http://192.168.102.76:2200
+https://devapi.knowmoto.com/docs/
+https://api.knowmoto.com/docs
+User : cbteam
+Pass : cbl@123
+
+CONNECTION - sudo ssh -i ../pem_files/DevServerKnowMoto.pem ubuntu@54.203.51.37
+
+========================================================================
+Senior care
+https://seniorcare-api.netsolutionindia.com/documentation
+ssh -i CodeBrewTeam_pvtkey_opensshformat.pem root@142.93.246.166
+
+========================================================================
